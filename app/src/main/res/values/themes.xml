@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VMeet" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#90E42E</item>
+        <item name="colorPrimaryDark">#448AFF</item>
+        <item name="colorAccent">#536DFE</item>
+    </style>
+
+    <style name="Theme.VMeet" parent="Base.Theme.VMeet" />
+</resources>
